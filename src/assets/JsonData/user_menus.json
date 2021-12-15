@@ -1,0 +1,18 @@
+[
+    {
+        "icon": "bx bx-user",
+        "content": "Thông tin"
+    },
+    {
+        "icon": "bx bx-wallet-alt",
+        "content": "Ví của tôi"
+    },
+    {
+        "icon": "bx bx-cog",
+        "content": "Cài đặt"
+    },
+    {
+        "icon": "bx bx-log-out-circle bx-rotate-180",
+        "content": "Đăng Xuất"
+    }
+]
